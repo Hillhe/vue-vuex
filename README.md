@@ -1,4 +1,4 @@
-# myproject
+﻿# Myproject
 
 > A Vue.js project
 > vue 多页面配置，vuex测试
